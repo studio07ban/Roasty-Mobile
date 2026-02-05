@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src=".src/assets/IMG_9055.PNG" alt="Roast My Excuses App" width="300" />
+  <img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/93ba5abf-4d62-45dc-b23e-8e4fa5fe28c8" />
 </p>
 
 > **"Arrête de te mentir. Laisse l'IA le faire pour toi."**
