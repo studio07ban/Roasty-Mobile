@@ -1,6 +1,6 @@
 # 🔥 Roast My Excuses - Mobile App (MVP)
 
-🧠 Voir le Repository Backend : [Lien vers ton repo backend](https://github.com/HrodWolfS/roast-my-excuses-backend)
+🧠 Voir le Repository Backend : [Lien vers ton repo backend](https://github.com/studio07ban/Roasty-Backend.git)
 
 ---
 
