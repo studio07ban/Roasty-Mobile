@@ -111,6 +111,6 @@ src/
 
 ---
 <p align="center">
-  <img src=".src/assets//IMG_9054.PNG" alt="Roast My Excuses App" width="300" />
+  <img width="585" height="1266" alt="Image" src="https://github.com/user-attachments/assets/d078332b-49ed-4607-af72-7476b5a09bbb" />
 </p>
 _Fait avec ❤️ et beaucoup de sarcasme pour s'adresser à n'importe qui, qui souhaite faire n'importe quoi._
